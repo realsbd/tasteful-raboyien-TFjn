@@ -1,0 +1,10 @@
+{
+    "name": "7f P",
+    "blocks": {
+        "/blockchain/solana": true,
+        "/blockchain/solana/rust": true,
+        "/framework/vanilla": true,
+        "/category/onchain/core-token": true,
+        "/category/examples/core-hello_dev": true
+    }
+}
