@@ -1,0 +1,21 @@
+{
+    "price": 0.2,
+    "number": 100,
+    "gatekeeper": {
+        "gatekeeperNetwork" : "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
+        "expireOnUse" : true
+    },
+    "solTreasuryAccount": "EhiAyuCUppXW9mMbh1QVoXiiPYkJV7wgQTDqMLs2WZU3",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "21 April 2022 00:00:00 GMT",
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "storage": "ipfs",
+    "ipfsInfuraProjectId": "270pSLD73XlywwZxa4lmTRDp3M7",
+    "ipfsInfuraSecret": "f3623bcdeed9369d64ceb3333573f148",
+    "awsS3Bucket": null,
+    "noRetainAuthority": false,
+    "noMutable": false
+}

@@ -1,0 +1,9 @@
+DEVNET WALLET
+
+Wrote new keypair to ~/.config/solana/devnet-wallet.json
+============================================================================
+pubkey: EhiAyuCUppXW9mMbh1QVoXiiPYkJV7wgQTDqMLs2WZU3
+============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+cherry eyebrow educate art manage trust apple march above great over general
+============================================================================
